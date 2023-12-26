@@ -1,22 +1,7 @@
-//==============================================================================
-// FILE:
-//    MBASub.cpp
-//
-// DESCRIPTION:
-//    Obfuscation for integer sub instructions through Mixed Boolean Arithmetic
-//    (MBA). This pass performs an instruction substitution based on this
+
 //    equality:
 //      a - b == (a + ~b) + 1
-//    See formula 2.2 (j) in [1].
-//
-// USAGE:
-//      $ opt -load-pass-plugin <BUILD_DIR>/lib/libMBASub.so `\`
-//        -passes=-"mba-sub" <bitcode-file>
-//
-//  [1] "Hacker's Delight" by Henry S. Warren, Jr.
-//
-// License: MIT
-//==============================================================================
+
 
 
 #include "llvm/ADT/Statistic.h"

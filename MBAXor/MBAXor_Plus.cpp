@@ -1,17 +1,9 @@
-//==============================================================================
-// FILE:
-//    MBAXor.cpp
-//
 // DESCRIPTION:
 //
 //    equality:
 //      x^y==x-y-2*(x|~y)-2
-//
-// USAGE:
-//      $ opt -load-pass-plugin <BUILD_DIR>/lib/libMBAXor.so `\`
-//        -passes=-"mba-xor" <bitcode-file>
-//
-//==============================================================================
+
+
 
 
 #include "llvm/ADT/Statistic.h"
