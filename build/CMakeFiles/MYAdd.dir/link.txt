@@ -1,1 +1,0 @@
-/usr/bin/clang++-17 -fPIC -g -shared -Wl,-soname,libMYAdd.so -o libMYAdd.so CMakeFiles/MYAdd.dir/MBAAdd.cpp.o 

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/mnt/f/3clyLLVMPASS/build",
-  "command": "/usr/bin/clang++-17 -DMYAdd_EXPORTS -isystem /usr/lib/llvm-17/include -g -fPIC -std=gnu++17 -o CMakeFiles/MYAdd.dir/MBAAdd.cpp.o -c /mnt/f/3clyLLVMPASS/MBAAdd/MBAAdd.cpp",
-  "file": "/mnt/f/3clyLLVMPASS/MBAAdd/MBAAdd.cpp"
-}
-]
