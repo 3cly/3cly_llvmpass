@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libMYSub.so -o libMYSub.so CMakeFiles/MYSub.dir/MBASub.cpp.o 
