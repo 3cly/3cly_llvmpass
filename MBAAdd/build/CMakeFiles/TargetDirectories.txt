@@ -1,0 +1,7 @@
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/intrinsics_gen.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/omp_gen.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/acc_gen.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/MYAdd.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/edit_cache.dir
+/mnt/f/3clyLLVMPASS/MBAAdd/build/CMakeFiles/rebuild_cache.dir
